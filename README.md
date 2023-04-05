@@ -4,7 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-email@ocalkaptan.de-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:email@ocalkaptan.de)](mailto:email@ocalkaptan.de)
 
 
-
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
+</p>
 ![R](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png | width = 100)
 
 ![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)

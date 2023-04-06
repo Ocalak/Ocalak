@@ -22,7 +22,7 @@ Learning ;</h1>
 <img width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </p>
 
-[![Ocals GitHub stats](https://github-readme-stats.vercel.app/api?username=OCalak)]()
+
 
 
 
@@ -31,6 +31,6 @@ Learning ;</h1>
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=j178&count_private=true&include_all_commits=true&show_icons=true&custom_title=ocalak%27s%20GitHub%20stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=OCalak" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocalak&theme=default&show_icons=true&exclude_repo=Obsidian-Notes,nmap,vvv-scanner,ocalak.github.io,MyWechat,blog,intranet-api,resume,notes" />
 </p>

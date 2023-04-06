@@ -27,7 +27,7 @@ Learning ;</h1>
 
 
 <p align="center">
-  <img height="500" src="https://raw.githubusercontent.com/j178/j178/master/profile-3d.svg" />
+  <img height="500" src="https://raw.githubusercontent.com/ocalak/ocalak/master/profile-3d.svg" />
 </p>
 
 <p align="center">

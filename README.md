@@ -25,9 +25,3 @@ Learning ;</h1>
 
 
 
-
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=OCalak" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocalak&theme=default&show_icons=true&exclude_repo=Obsidian-Notes,nmap,vvv-scanner,ocalak.github.io,MyWechat,blog,intranet-api,resume,notes" />
-</p>

@@ -12,16 +12,5 @@
   <img width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
 
 </div>
-<h1>
-Learning ;</h1>
-<p align="center">
-  <img width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  <img width="100" height="100" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
-  <img width="100" height="100" src="https://cdn.worldvectorlogo.com/logos/flask.svg">
-<img width="100" height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</p>
-
-
 
 

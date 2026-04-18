@@ -1,7 +1,7 @@
 # Hi there, I'm Ocal Kaptan 👋 (Merhaba)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ocalak/Ocalak/main/github_banner.png" alt="Ocal Kaptan Banner" width="100%">
+  <img src="https://private-user-images.githubusercontent.com/96614838/580224643-94deb18a-e8a7-48c8-8f1e-e542f62ea5b7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY0NzEzMDAsIm5iZiI6MTc3NjQ3MTAwMCwicGF0aCI6Ii85NjYxNDgzOC81ODAyMjQ2NDMtOTRkZWIxOGEtZThhNy00OGM4LThmMWUtZTU0MmY2MmVhNWI3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDE4VDAwMTAwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiZTk0MmZhOWJlMTU4Y2VhNDkxODY3MGUwMzVlMWE0NTUyYmFmNjM3MzdiNzcwOWU5ZmNkN2NiZDVhMTllNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.WiUmJi5ot0MlhukTxRdHs5zOn63i8v9x_iXnZObLeSM" alt="Ocal Kaptan Banner" width="100%">
 </p>
 
 ---
